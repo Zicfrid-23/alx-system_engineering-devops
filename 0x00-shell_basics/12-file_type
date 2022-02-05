@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/iamfileafile
+file /tmp/iamfileafile/tmp
